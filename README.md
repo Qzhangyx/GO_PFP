@@ -1,5 +1,5 @@
-# TRGOA
-TRGOA: Topological-aware Residue-Gene Ontology Attention Network for Protein Function Prediction
+
+Using GO for Protein Function Prediction
 
 ## Setup Environment
 torch                         2.2.1
